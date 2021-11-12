@@ -27,8 +27,7 @@ namespace PlatformService
 
         public void ConfigureServices(IServiceCollection services)
         {
-            // we will use a persistent SQL database for production
-            // using in memory for now to get us going
+            // we will use a SQL database for production but for now we'll use an in-memory database
             services.AddDbContext<AppDbContext>(opt => 
                 opt.UseInMemoryDatabase("InMem"));
 
