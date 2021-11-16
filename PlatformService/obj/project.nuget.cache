@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yzLnX3k5uiNUeo+nxEWye/fR1AvaDpY1mEee+NHyRbYnVoNrrRj6JLb3m3lVG04v/+LWWuXYQb0nlAw5m1f5Lg==",
+  "dgSpecHash": "aj5eqhUlarsRThXsf6vrzjbjbS8s9Ytyac7SgLcfhkDqS0QFH5fIPRC1+jegwzLNS+1Za9neS7v5JnT9ibdeJQ==",
   "success": true,
   "projectFilePath": "/Users/omar.negronmontero/code/dotnet-microservices/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
