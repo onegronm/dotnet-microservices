@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/omar.negronmontero/code/dotnet-microservices/PlatformService/bin/Debug/net5.0/appsettings.Development.json
 /Users/omar.negronmontero/code/dotnet-microservices/PlatformService/bin/Debug/net5.0/appsettings.json
 /Users/omar.negronmontero/code/dotnet-microservices/PlatformService/bin/Debug/net5.0/PlatformService.deps.json
@@ -33,3 +34,41 @@
 /Users/omar.negronmontero/code/dotnet-microservices/PlatformService/obj/Debug/net5.0/ref/PlatformService.dll
 /Users/omar.negronmontero/code/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.pdb
 /Users/omar.negronmontero/code/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.genruntimeconfig.cache
+=======
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.csprojAssemblyReference.cache
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfoInputs.cache
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfo.cs
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CoreCompileInputs.cache
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\appsettings.Development.json
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\appsettings.json
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\PlatformService.exe
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\PlatformService.deps.json
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.json
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.dev.json
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\PlatformService.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\ref\PlatformService.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\PlatformService.pdb
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\AutoMapper.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\dotnet-microservices\PlatformService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.Manifest.cache
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.xml
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\scopedcss\bundle\PlatformService.styles.css
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CopyComplete
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.dll
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.pdb
+C:\Code\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+>>>>>>> ca13265c855173a7d62a2cfc6d1771091e7ab84a

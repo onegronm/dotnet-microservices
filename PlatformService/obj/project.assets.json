@@ -934,24 +934,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/omar.negronmontero/.nuget/packages/": {}
+    "C:\\Users\\omarn\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omar.negronmontero/code/dotnet-microservices/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "C:\\Code\\dotnet-microservices\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/omar.negronmontero/code/dotnet-microservices/PlatformService/PlatformService.csproj",
-      "packagesPath": "/Users/omar.negronmontero/.nuget/packages/",
-      "outputPath": "/Users/omar.negronmontero/code/dotnet-microservices/PlatformService/obj/",
+      "projectPath": "C:\\Code\\dotnet-microservices\\PlatformService\\PlatformService.csproj",
+      "packagesPath": "C:\\Users\\omarn\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\dotnet-microservices\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/omar.negronmontero/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\omarn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
