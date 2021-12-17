@@ -10,6 +10,7 @@ namespace CommandsService.Controllers {
             
         }
 
+        [HttpPost]
         public ActionResult TestInboundConnection() {
             return Ok("Inbound test from Platforms Controller");
         }
