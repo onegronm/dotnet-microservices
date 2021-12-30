@@ -1,18 +1,25 @@
 using System.Linq;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace PlatformService.Data
 {
     public static class PrepDb
     {
-        public static void Seed(IApplicationBuilder app){
+        public static void Seed(IApplicationBuilder app, bool isProd){
             using(var serviceScope = app.ApplicationServices.CreateScope()){
-                SeedData(serviceScope.ServiceProvider.GetService<AppDbContext>());
+                SeedData(serviceScope.ServiceProvider.GetService<AppDbContext>(), isProd);
             }
         }
 
-        private static void SeedData(AppDbContext context) {
+        private static void SeedData(AppDbContext context, bool isProd) {
+            
+            if (isProd) 
+            {
+                context.Database.Migrate();
+            }
+
             if (!context.Platforms.Any())
             {
                 context.Platforms.AddRange(
