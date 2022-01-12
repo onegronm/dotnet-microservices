@@ -4,6 +4,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
+using PlatformService.AsyncDataServices;
 using PlatformService.Models.DTOs;
 
 namespace PlatformService.SyncDataServices.Http {
@@ -12,7 +13,10 @@ namespace PlatformService.SyncDataServices.Http {
         private readonly HttpClient _httpClient;
         private readonly IConfiguration _configuration;
 
-        public HttpCommandDataClient(HttpClient httpClient, IConfiguration configuration)
+
+        public HttpCommandDataClient(
+            HttpClient httpClient, 
+            IConfiguration configuration)
         {
             _httpClient = httpClient;
             _configuration = configuration;
